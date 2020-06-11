@@ -1,0 +1,10 @@
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\bin\Debug\WinAppTrojuholnik.exe.config
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\bin\Debug\WinAppTrojuholnik.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\bin\Debug\WinAppTrojuholnik.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.csprojAssemblyReference.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.Properties.Resources.resources
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.csproj.GenerateResource.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.csproj.CoreCompileInputs.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\WinAppTrojuholnik\WinAppTrojuholnik\obj\Debug\WinAppTrojuholnik.TrojuholForm.resources
